@@ -1,4 +1,4 @@
-## Mainten Active Directory membership 
+## Maintain Active Directory membership 
 ## Nikolay Georgieff
 ## 
 
